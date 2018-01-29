@@ -69,3 +69,16 @@ Ici, chaque partie peut exprimer ce dont il a besoin ou qu'il/elle recherche en 
 Ici, on peut mettre les liens vers la documentation, les ressources, ou documenter / discuter directement de l'accord.
 C'est notamment ici que nous mettons la version PDF signée électroniquement de l'accord, s'il a pour vocation d'être solidifé juridiquement.
 
+---
+## Comment contribuer à ce document ?
+
+Envie de contribuer à ce modèle d'accord de réciprocité? VOilà comment vous pouvez faire:
+ * **Familier avec github?** Faites un pull request avec vos suggestions. Si vous n'êtes pas sûr de comment procéder, pas de souçis. Lisez juste en dessous.
+ * **Pas familier avec github?** Vous pouvez laisser un commentaire sur cette page en cliquant sur l'onglet `Issues` sur la droite et en ajoutant une New Issue (c'est juste comme un commentaire). FYI vous aurez besoin de créer un compte github.
+
+---
+
+[<center>Ce document est sous une licence Creative Commons CC-BY-SA 4.0.</center>]((http://creativecommons.org/licenses/by-sa/4.0/))
+
+<img style="display: block; margin: 0 auto;" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width="40%">
+
