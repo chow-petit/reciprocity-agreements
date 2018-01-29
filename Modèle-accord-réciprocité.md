@@ -3,6 +3,12 @@
 ## Introduction
 
 Les accords de réciprocité ont pour vocation à définir le cadre de réciprocité entre différents parties, individus, groupes, collectifs ou personnes morales. Ils sont signés de gré-à-gré et ont pour vocation d'être mutuellement interopérables. Cela signifie qu'un pair peut répondre à un des besoins exprimés dans n'importe quel autre accord, ou demander la satisfaction d'un de ses besoins par n'importe quel autre pair - sous réserve de l'accord tacite des parties impliquées et de la documentation ouverte de cette action.
+
+Voici quelques précisions importantes concernant les accords de réciprocité:
+* *Un individu peut tout à fait signer cet accord à titre de volonté personnelle, sans représenter formellement les personnes morales ou entités collectives dont il/elle fait partie.*
+* *Un accord de réciprocité est un accord pouvant être révisé ou précisé régulièrement à la demande de l'une et l'autre partie.*
+* *C’est un engagement moral plus que juridique.*
+
 Pour plus de renseignements, [cliquez ici](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
 Le contenu d'un accord de réciprocité consiste en:
@@ -14,10 +20,6 @@ Le contenu d'un accord de réciprocité consiste en:
 
 Éventuellement, [**la documentation et le suivi**](#documentation-et-suivi) de cet accord dans le temps.
 
-Voici quelques précisions importantes concernant les accords de réciprocité:
-* *Un individu peut tout à fait signer cet accord à titre de volonté personnelle, sans représenter formellement les personnes morales ou entités collectives dont il/elle fait partie.*
-* *Un accord de réciprocité est un accord pouvant être révisé ou précisé régulièrement à la demande de l'une et l'autre partie.*
-* *C’est un engagement moral plus que juridique.*
 
 ## Présentation des parties
 
