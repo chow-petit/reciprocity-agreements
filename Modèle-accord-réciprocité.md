@@ -38,11 +38,11 @@ Pareillement, on indique ici à quel titre elle participe à cet accord:
 Dans les cas où la personne morale s'engage, on précise les détails du représentant.
 
 ## Descriptions de l’accord
-Ces descriptions permettent de donner le contexte de l’accord. Il s’agit d’un cadre libre d’expression, et n’engage donc pas sinon moralement.
+Ici, chacunes des parties écrit librement ce qu'il souhaite exprimer ou décrire. Ces descriptions permettent de donner le contexte de l’accord. Il s’agit d’un cadre libre d’expression, et n’engage donc pas sinon moralement.
 
 
 
-## Tableau des engagements
+## Liste des engagements
 Ce tableau d’engagement représente les points d’ententes formels entre les parties.
 
 
