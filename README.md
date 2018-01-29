@@ -1,0 +1,2 @@
+# reciprocity-agreements
+A reciprocity agreement is a new model of peer-to-peer contract that incorporates the free expression of the parties, as well as their formal commitments. It is born of a need in collaborative environments to bring order to informal and contributory relationships as well as bring chaos to formal and commercial relationships. We're trying to reach a dynamic, editable equilibrium.
