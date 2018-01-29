@@ -10,7 +10,7 @@ Le contenu d'un accord de réciprocité consiste en:
 * [**La présentation des parties**](#présentation-des-parties) - Cela peut inclure notamment l’environnement, les engagements, les compétences, les ressources, l’entourage et les réseaux des individus ou des organisations, afin de contextualiser l’accord. 
 * [**Les descriptions de l’accord**](#descriptions-de-laccord) - Ecrit librement, d’un point de vue humain (ressentis, attentes, espérances et appréhensions) et écosystémique (le contexte large dans lequel il a été signé).
 * [**La liste des apports et engagements**](#listes-des-apports-et-engagements) - Pour chacune des parties ainsi que conjointement, avec les conditions et modalités qui y sont liés.
-* [**Les besoins exprimés**](#besoins-exprimés) - Ces listes documente les besoins exprimés par les parties en général, *y compris au-delà du cadre de cet accord*. Le but étant de les rendre visible au sein de la communauté pair-à-pair, afin que d'autres puisse y répondre.
+* [**Les besoins exprimés**](#besoins-exprimés) - Ces listes documente les besoins exprimés par les parties en général, y compris au-delà du cadre de cet accord. Le but étant de les rendre visible au sein de la communauté pair-à-pair, afin que d'autres puisse y répondre.
 
 Éventuellement, [**la documentation et le suivi**](#documentation-et-suivi) de cet accord dans le temps.
 
