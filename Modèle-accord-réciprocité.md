@@ -3,7 +3,7 @@
 ## Introduction
 
 Les accords de réciprocité ont pour vocation à définir le cadre de réciprocité entre différents parties, individus, groupes, collectifs ou personnes morales. Ils sont signés de gré-à-gré et ont pour vocation d'être mutuellement interopérables. Cela signifie qu'un pair peut répondre à un des besoins exprimés dans n'importe quel autre accord, ou demander la satisfaction d'un de ses besoins par n'importe quel autre pair - sous réserve de l'accord tacite des parties impliquées et de la documentation ouverte de cette action.
-Pour plus de renseignements, cliquez ici.
+Pour plus de renseignements, [cliquez ici](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
 Le contenu d'un accord de réciprocité consiste en:
 
@@ -56,5 +56,6 @@ Ici on liste les engagements formels des parties.
 Ici, chaque partie peut exprimer ce dont il a besoin ou qu'il/elle recherche en général. Cela permettra au réseau pair-à-pair d'éventuellement y répondre.
 
 ## Documentation et suivi
-
+Ici, on peut mettre les liens vers la documentation, les ressources, ou documenter / discuter directement de l'accord.
+C'est notamment ici que nous mettons la version PDF signée électroniquement de l'accord, si il a pour vocation d'être solidifé juridiquement.
 
