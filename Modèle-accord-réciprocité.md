@@ -69,10 +69,14 @@ Ici, chaque partie peut exprimer ce dont il a besoin ou qu'il/elle recherche en 
 Ici, on peut mettre les liens vers la documentation, les ressources, ou documenter / discuter directement de l'accord.
 C'est notamment ici que nous mettons la version PDF signée électroniquement de l'accord, s'il a pour vocation d'être solidifé juridiquement.
 
+* [*Lien vers le PDF signé électroniquement*](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* [*Lien vers les cours de biologie*](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* [*Lien vers le repository github du code du projet*](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 ---
 ## Comment contribuer à ce document ?
 
-Envie de contribuer à ce modèle d'accord de réciprocité? VOilà comment vous pouvez faire:
+Envie de contribuer à ce modèle d'accord de réciprocité? Voilà comment faire:
  * **Familier avec github?** Faites un pull request avec vos suggestions. Si vous n'êtes pas sûr de comment procéder, pas de souçis. Lisez juste en dessous.
  * **Pas familier avec github?** Vous pouvez laisser un commentaire sur cette page en cliquant sur l'onglet `Issues` sur la droite et en ajoutant une New Issue (c'est juste comme un commentaire). FYI vous aurez besoin de créer un compte github.
 
