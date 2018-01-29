@@ -20,7 +20,8 @@ Voici quelques précisions importantes concernant les accords de réciprocité:
 
 C'est ici que sont renseignées les personnes physiques et morales concluant cet accord de principe. 
 
-**Pour les personnes physiques**
+**Pour les personnes physiques:**
+
 Habituellement, le nom, le prénom, les collectifs d'appartenance. 
 Eventuellement le statut et le titre (argh!) si elle représente une personne morale:
 
@@ -28,7 +29,8 @@ Eventuellement le statut et le titre (argh!) si elle représente une personne mo
 * *Je représente la structure, mais informellement*
 * *Je suis signataire / délégataire de la structure pour cet accord*
 
-**Personnes morales, entités & structures**
+**Personnes morales, entités & structures!**
+
 On retrouve ici les détails des entités impliquées - Nom, SIRET, Adresse, liens Internet, description, etc.
 Pareillement, on indique ici à quel titre elle participe à cet accord:
 * *Cette entité n’est pas signataire de cet accord*
