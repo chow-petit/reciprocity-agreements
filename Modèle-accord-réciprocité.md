@@ -43,12 +43,12 @@ Pareillement, on indique ici à quel titre elle participe à cet accord:
 Dans les cas où la personne morale s'engage, on précise les détails du représentant.
 
 ## Descriptions de l’accord
-Ici, chacunes des parties écrit librement ce qu'il souhaite exprimer ou décrire. Ces descriptions permettent de donner le contexte de l’accord. Il s’agit d’un cadre libre d’expression, et n’engage donc pas sinon moralement.
+Ici, chaque partie écrit librement ce qu'il souhaite exprimer ou décrire. Ces descriptions permettent de donner le contexte de l’accord. Il s’agit d’un cadre libre d’expression, et n’engage donc pas sinon moralement.
 
 
 
 ## Listes des apports et engagements
-Ici on liste les engagements formels des parties.
+Ici, chaque partie liste ses engagements formels. On peut également faire une liste des engagements communs.
 
 
 
@@ -57,5 +57,5 @@ Ici, chaque partie peut exprimer ce dont il a besoin ou qu'il/elle recherche en 
 
 ## Documentation et suivi
 Ici, on peut mettre les liens vers la documentation, les ressources, ou documenter / discuter directement de l'accord.
-C'est notamment ici que nous mettons la version PDF signée électroniquement de l'accord, si il a pour vocation d'être solidifé juridiquement.
+C'est notamment ici que nous mettons la version PDF signée électroniquement de l'accord, s'il a pour vocation d'être solidifé juridiquement.
 
