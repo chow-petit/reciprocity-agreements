@@ -55,8 +55,9 @@ Ici, chaque partie écrit librement ce qu'il souhaite exprimer ou décrire. Ces 
 Ici, chaque partie liste ses engagements formels. On peut également faire une liste des engagements communs.
 
 * *Je donne 3 heures par semaine en présentiel et autant de temps de codage que je peux.*
-* *Notre projet s'engage à te former en biologie, avec au moins 1 heure par semaine en tête-à-tête. Si le projet se complète avec succès et que tu as toujours été présent, on s'engage à passer 2 semaines à te former."*
-* *Ensemble, on s'autorise 1 mois de délais, et si rien ne se passe, on s'engage à trouver un remplacement l'un pour l'autre: nous pour tes besoins en biologie et toi pour nos besoins en informatique."*
+* *Notre projet s'engage à te former en biologie, avec 1 heure par semaine en tête-à-tête. Si le projet se complète avec succès et que tu as toujours été présent, on s'engage à passer 2 semaines à te former."*
+* *Si les heures de présentiel ou le temps de cours de biologie devaient dépasser ces volumes convenus, on s'engage à se les dédommager 100 € de l'heure."*
+* *Ensemble, on s'autorise 1 mois de délai, et si rien ne se passe, on s'engage à trouver un remplacement l'un pour l'autre: nous pour tes besoins en biologie et toi pour nos besoins en informatique."*
 
 ## Besoins exprimés
 Ici, chaque partie peut exprimer ce dont il a besoin ou qu'il/elle recherche en général. Cela permettra au réseau pair-à-pair d'éventuellement y répondre.
