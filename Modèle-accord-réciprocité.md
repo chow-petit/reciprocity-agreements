@@ -2,14 +2,17 @@
 
 ## Introduction
 
-Cet accord a pour vocation à définir le cadre de réciprocité entre différents parties, individus, groupes, collectifs ou personnes morales. 
-Il consiste en :
+Les accords de réciprocité ont pour vocation à définir le cadre de réciprocité entre différents parties, individus, groupes, collectifs ou personnes morales. Ils sont signés de gré-à-gré et ont pour vocation d'être mutuellement interopérables. Cela signifie qu'un pair peut répondre à un des besoins exprimés dans n'importe quel autre accord, ou demander la satisfaction d'un de ses besoins par n'importe quel autre pair - sous réserve de l'accord tacite des parties impliquées et de la documentation ouverte de cette action.
+Pour plus de renseignements, cliquez ici.
+
+Le contenu d'un accord de réciprocité consiste en:
 
 * [**La présentation des parties**](#présentation-des-parties) - Cela peut inclure notamment l’environnement, les engagements, les compétences, les ressources, l’entourage et les réseaux des individus ou des organisations, afin de contextualiser l’accord. 
 * [**Les descriptions de l’accord**](#descriptions-de-laccord) - Ecrit librement, d’un point de vue humain (ressentis, attentes, espérances et appréhensions) et écosystémique (le contexte large dans lequel il a été signé).
-* [**La liste des apports, besoins et engagements**](#listes-des-apports-besoins-et-engagements) - Pour chacune des parties ainsi que conjointement, avec les conditions et modalités qui y sont liés.
+* [**La liste des apports et engagements**](#listes-des-apports-et-engagements) - Pour chacune des parties ainsi que conjointement, avec les conditions et modalités qui y sont liés.
+* [**Les besoins exprimés**](#besoins-exprimés) - Ces listes documente les besoins exprimés par les parties en général, *y compris au-delà du cadre de cet accord*. Le but étant de les rendre visible au sein de la communauté pair-à-pair, afin que d'autres puisse y répondre.
 
-Éventuellement, [la documentation et le suivi](#documentation-et-suivi) de cet accord dans le temps.
+Éventuellement, [**la documentation et le suivi**](#documentation-et-suivi) de cet accord dans le temps.
 
 Voici quelques précisions importantes concernant les accords de réciprocité:
 * *Un individu peut tout à fait signer cet accord à titre de volonté personnelle, sans représenter formellement les personnes morales ou entités collectives dont il/elle fait partie.*
@@ -44,9 +47,13 @@ Ici, chacunes des parties écrit librement ce qu'il souhaite exprimer ou décrir
 
 
 
-## Listes des apports, besoins et engagements
-Ces listes représentent les points d’ententes formels entre les parties.
+## Listes des apports et engagements
+Ici on liste les engagements formels des parties.
 
+
+
+## Besoins exprimés
+Ici, chaque partie peut exprimer ce dont il a besoin ou qu'il/elle recherche en général. Cela permettra au réseau pair-à-pair d'éventuellement y répondre.
 
 ## Documentation et suivi
 
