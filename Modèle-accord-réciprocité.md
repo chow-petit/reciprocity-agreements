@@ -18,7 +18,7 @@ Voici quelques précisions importantes concernant les accords de réciprocité:
 
 ## Parties en présence
 
-C'est ici que sont renseignées les personnes physiques et morales concluant cet accord de principe. 
+C'est ici que sont renseignées les personnes physiques et morales concluant cet accord.
 
 **Pour les personnes physiques:**
 
