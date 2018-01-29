@@ -45,15 +45,22 @@ Dans les cas où la personne morale s'engage, on précise les détails du repré
 ## Descriptions de l’accord
 Ici, chaque partie écrit librement ce qu'il souhaite exprimer ou décrire. Ces descriptions permettent de donner le contexte de l’accord. Il s’agit d’un cadre libre d’expression, et n’engage donc pas sinon moralement.
 
+* *Je suis informaticien et je m'intéresse à la biologie. Je veux contribuer à un projet concret, tout en apprenant la biologie. J'ai besoin que ce soit très concret et que ça avance vite - pas de réunions et d'attentes trop longues.*
 
+* *Nous sommes un projet qui touche à la biologie et qui a des besoins en informatique.*
 
 ## Listes des apports et engagements
 Ici, chaque partie liste ses engagements formels. On peut également faire une liste des engagements communs.
 
-
+* *Je donne 3 heures par semaine en présentiel et autant de temps de codage que je peux.*
+* *Notre projet s'engage à te former en biologie, avec au moins 1 heure par semaine en tête-à-tête. Si le projet se complète avec succès et que tu as toujours été présent, on s'engage à passer 2 semaines à te former."
+* *Ensemble, on s'autorise 1 mois de délais, et si rien ne se passe, on s'engage à trouver un remplacement l'un pour l'autre: nous pour tes besoins en biologie et toi pour nos besoins en informatique."
 
 ## Besoins exprimés
 Ici, chaque partie peut exprimer ce dont il a besoin ou qu'il/elle recherche en général. Cela permettra au réseau pair-à-pair d'éventuellement y répondre.
+
+* *Par ailleurs, je voudrais apprendre à cuisiner.*
+* *Notre projet recherche un Business Model. Qui a des expertises sur le sujet ?*
 
 ## Documentation et suivi
 Ici, on peut mettre les liens vers la documentation, les ressources, ou documenter / discuter directement de l'accord.
