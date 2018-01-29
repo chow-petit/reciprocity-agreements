@@ -16,7 +16,7 @@ Le contenu d'un accord de réciprocité consiste en:
 
 Voici quelques précisions importantes concernant les accords de réciprocité:
 * *Un individu peut tout à fait signer cet accord à titre de volonté personnelle, sans représenter formellement les personnes morales ou entités collectives dont il/elle fait partie.*
-* *Un accord de réciprocité est un accord pouvant être révisé régulièrement à la demande de l'une et l'autre partie.*
+* *Un accord de réciprocité est un accord pouvant être révisé ou précisé régulièrement à la demande de l'une et l'autre partie.*
 * *C’est un engagement moral plus que juridique.*
 
 ## Présentation des parties
