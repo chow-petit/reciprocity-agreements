@@ -6,8 +6,8 @@ Cet accord a pour vocation à définir le cadre de réciprocité entre différen
 Il consiste en :
 
 * [**La présentation des parties**](#présentation-des-parties) - Cela peut inclure notamment l’environnement, les engagements, les compétences, les ressources, l’entourage et les réseaux des individus ou des organisations, afin de contextualiser l’accord. 
-* [**Les descriptions de l’accord**](#descriptions-de-l'accord) - Ecrit librement, d’un point de vue humain (ressentis, attentes, espérances et appréhensions) et écosystémique (le contexte large dans lequel il a été signé).
-* [**La liste des apports, besoins et engagements**](#listes-des-apports,-besoins-et-engagements) - Pour chacune des parties ainsi que conjointement, avec les conditions et modalités qui y sont liés.
+* [**Les descriptions de l’accord**](#descriptions-de-laccord) - Ecrit librement, d’un point de vue humain (ressentis, attentes, espérances et appréhensions) et écosystémique (le contexte large dans lequel il a été signé).
+* [**La liste des apports, besoins et engagements**](#listes-des-apports-besoins-et-engagements) - Pour chacune des parties ainsi que conjointement, avec les conditions et modalités qui y sont liés.
 
 Éventuellement, [la documentation et le suivi](#documentation-et-suivi) de cet accord dans le temps.
 
