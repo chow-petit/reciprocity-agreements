@@ -82,7 +82,7 @@ Envie de contribuer à ce modèle d'accord de réciprocité? Voilà comment fair
 
 ---
 
-[<center>Ce document est sous une licence Creative Commons CC-BY-SA 4.0.</center>]((http://creativecommons.org/licenses/by-sa/4.0/))
+[<center>Ce document est sous une licence Creative Commons CC-BY-SA 4.0 et est inspirée des précédentes initiatives d'accords de récirprocité de la Myne et de l'écosystème KoDeal de Saint-Etienne.</center>]((http://creativecommons.org/licenses/by-sa/4.0/))
 
 <img style="display: block; margin: 0 auto;" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width="40%">
 
