@@ -81,6 +81,8 @@ Envie de contribuer à ce modèle d'accord de réciprocité? Voilà comment fair
  * **Pas familier avec github?** Vous pouvez laisser un commentaire sur cette page en cliquant sur l'onglet `Issues` sur la droite et en ajoutant une New Issue (c'est juste comme un commentaire). FYI vous aurez besoin de créer un compte github.
 
 ---
+Optionnellement, possibilité d'ajouter des tags YAML ici.
+---
 
 [<center>Ce document est sous une licence Creative Commons CC-BY-SA 4.0 et est inspirée des précédentes initiatives d'accords de récirprocité de la Myne et de l'écosystème KoDeal de Saint-Etienne.</center>]((http://creativecommons.org/licenses/by-sa/4.0/))
 
